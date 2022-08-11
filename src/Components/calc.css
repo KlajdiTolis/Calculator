@@ -20,6 +20,7 @@
 }
 
 .myCalculator{
+    position: relative;
     background-image: linear-gradient(to bottom right, rgb(255, 153, 0), rgb(0, 0, 0));
     width: 315px;
     margin-top: 230px;
