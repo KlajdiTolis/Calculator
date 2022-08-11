@@ -5,7 +5,7 @@ import "./Components/calc.css";
 /**this is the main class */
 
 const App = () => {
-  const [result, setResult] = useState(0);
+  const [result, setResult] = useState(" ");
   const handleclicks = (value) => {
     switch (value) {
       case "0":
